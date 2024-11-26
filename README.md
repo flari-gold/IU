@@ -37,9 +37,9 @@ Um das Skript zu nutzen muss eine Anwendung im Reddit Developer Bereich erstellt
 Es muss das zu analysierende Subreddit gesetzt werden. Weitere Paramtere sind ebenfalls anpassbar, falls die Standardwerte zu keinem guten Ergebnis führen.
 
 ### -Ausführung
-Das Script kann in der Google Colab Umgebung ausgeführt werden. In anderen Umgebungen muss eventuell mit pip weitere Packages installiert werden.
+Das Script entspricht einem Jupyter Notebook und kann in der Google Colab Umgebung ausgeführt werden. In anderen Umgebungen muss eventuell mit pip weitere Packages installiert werden.
 
 
 ## Anmerkung
 
-Dieses Skript wurde während des Studiums an der IU Internationale Hochschule erstellt und dient nur zum Bildungszweck 
+Dieses Script wurde während des Studiums an der IU Internationale Hochschule erstellt und dient nur zum Bildungszweck.
