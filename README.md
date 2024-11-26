@@ -31,7 +31,7 @@ Matplotlib
 ## Nutzung
 
 ### -API
-Um das Skript zu nutzen muss eine Anwendung im Reddit Developer Bereich erstellt werden. Das generierte Secret und ID müssen im Google Colab Secret hinterlegt werden oder auf andere weiße geschützt gespeichert und geladen werden.
+Um das Skript zu nutzen muss eine Anwendung im Reddit Developer Bereich erstellt werden. Das generierte Secret und ID müssen im Google Colab Secret hinterlegt werden oder auf andere Weise geschützt gespeichert und geladen werden.
 
 ### -Paramter
 Es muss das zu analysierende Subreddit gesetzt werden. Weitere Paramtere sind ebenfalls anpassbar, falls die Standardwerte zu keinem guten Ergebnis führen.
