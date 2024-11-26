@@ -5,11 +5,13 @@ Reddit Topic Modeling und Analysis
 Dieses Script analysiert ein angegebenes Subreddit und extrahiert daraus die diskutierten Themen und weitere Nutzer Statistiken.
 
 #Grundsätzliche Funktionsweise
+
 Beiträge und Kommentare eines Subreddits werden über die PRAW Library abgerufen.
 Topic Modeling mit Hilfe des LDA Algorithmus. Hierbei entspricht ein Betrag und seine dazugehörigen Kommentare einem Dokument im Modell.
 Ausgabe der ermittelten Themen und Nutzer Statistiken in Text und Bildform.
 
 #Genutze Bibliotheken
+
 PRAW
 HanTa
 NLTK
@@ -19,6 +21,7 @@ Wordcloud
 Matplotlib
 
 #Nutzung
+
 -API
 Um das Skript zu nutzen muss eine Anwendung im Reddit Developer Bereich erstellt werden. Das generierte Secret und ID müssen im Google Colab Secret hinterlegt werden oder auf andere weiße geschützt gespeichert und geladen werden.
 
@@ -30,4 +33,5 @@ Das Script kann in der Google Colab Umgebung ausgeführt werden. In anderen Umge
 
 
 #Anmerkung
+
 Dieses Skript wurde während des Studiums an der IU Internationale Hochschule erstellt und dient nur zum Bildungszweck 
