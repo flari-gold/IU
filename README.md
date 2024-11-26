@@ -7,17 +7,25 @@ Dieses Script analysiert ein angegebenes Subreddit und extrahiert daraus die dis
 ## Grundsätzliche Funktionsweise
 
 Beiträge und Kommentare eines Subreddits werden über die PRAW Library abgerufen.
+
 Topic Modeling mit Hilfe des LDA Algorithmus. Hierbei entspricht ein Betrag und seine dazugehörigen Kommentare einem Dokument im Modell.
+
 Ausgabe der ermittelten Themen und Nutzer Statistiken in Text und Bildform.
 
 ## Genutze Bibliotheken
 
 PRAW
+
 HanTa
+
 NLTK
+
 Gensim
+
 pyLDAvis
+
 Wordcloud
+
 Matplotlib
 
 ## Nutzung
